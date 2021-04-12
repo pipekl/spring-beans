@@ -22,7 +22,7 @@ public class AnimalsCage {
         System.out.println("________________________");
     }
 
-    private Timer getTime () {
+    public Timer getTime () {
         return timer;
     }
 }
